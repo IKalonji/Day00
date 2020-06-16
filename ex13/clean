@@ -1,0 +1,1 @@
+find /temp/event/ex13/ -type f [" ~"]["# "] -exec rm -f {}; 
